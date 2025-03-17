@@ -2,7 +2,7 @@ function Tree(){
     return <div>
         <div className="headerpage">
             <nav className="navbar">
-                <img src="/logocafe.svg" alt="" />
+                <img src="logocafe.svg" alt="" />
                 <div className="row">
                     <span>Stores</span>
                     <span>Help & Support</span>
@@ -11,25 +11,25 @@ function Tree(){
             </nav>
             <div className="herocontainer">
                 <h1><span>Order ahead</span><br /> and earn rewards for every purchase</h1>
-                <button>Discover now <img src="/arrowsvg.svg" alt="" /></button>
+                <button>Discover now <img src="arrowsvg.svg" alt="" /></button>
                 
             </div>
-            <img src="/hero.svg" alt="" className="heroimg"/>
-                <img src="/background.svg" alt="" className="backimg"/>
+            <img src="hero.svg" alt="" className="heroimg"/>
+                <img src="background.svg" alt="" className="backimg"/>
         </div>
         <div className="framecontainer">
             <div className="column">
-                <img src="/columnsvg1.svg" alt="" />
+                <img src="columnsvg1.svg" alt="" />
                 <h2>Order ahead, skip the line</h2>
                 <p>Feel like a rock star when you bypass the line and save a bunch of time.</p>
             </div>
             <div className="column">
-                <img src="/columnsvg2.svg" alt="" />
+                <img src="columnsvg2.svg" alt="" />
                 <h2>Bonus and discounts</h2>
                 <p>You can enjoy lots of discounts from the selected stores, or accumulate points.</p>
             </div>
             <div className="column">
-                <img src="/columnsvg3.svg" alt="" />
+                <img src="columnsvg3.svg" alt="" />
                 <h2>Share with your friends</h2>
                 <p>Send gifts to your friends and family, and pick up for your coworkers when they can't get away .</p>
             </div>
@@ -41,16 +41,16 @@ function Tree(){
             <span>Start choosing your favorite teas and snacks in your nearby stores and place your orders, accumulate points, share gifts and teas with your friends and co-workers, and finally use our T-Pass to get your free drinks.</span>
             <div className="box"></div>
             </div>
-            <img src="/phonesvg.svg" alt="" className="phonesvg"/>
-            <img src="/chipssvg.svg" alt="" className="chipssvg"/>
-            <img src="/cofesvg.svg" alt="" className="cofesvg"/>
-            <img src="/phone-content.svg" alt="" className="phone-content"/>
+            <img src="phonesvg.svg" alt="" className="phonesvg"/>
+            <img src="chipssvg.svg" alt="" className="chipssvg"/>
+            <img src="cofesvg.svg" alt="" className="cofesvg"/>
+            <img src="phone-content.svg" alt="" className="phone-content"/>
             <div className="background"></div>
         </div>
         <div className="heropage">
             <div className="box">
             <div className="container-loyalty">
-                <img src="/loyalty.svg" alt="" />
+                <img src="loyalty.svg" alt="" />
                 <div className="column">
                     <h2>Loyalty points</h2>
                     <p>Collect points on each store and redeem them to change for Teas.</p>
@@ -58,7 +58,7 @@ function Tree(){
                 </div>
             </div>
             <div className="container-exclusive">
-                <img src="/exclusive.svg" alt="" />
+                <img src="exclusive.svg" alt="" />
                 <div className="column">
                     <h2>Exclusive Store Discounts</h2>
                     <p>You can enjoy lots of discounts from the selected stores near you.</p>
@@ -66,7 +66,7 @@ function Tree(){
                 </div>
             </div>
             <div className="container-drinks">
-                <img src="/drinks.svg" alt="" />
+                <img src="drinks.svg" alt="" />
                 <div className="column">
                     <h2>T.Pass Free Drinks</h2>
                     <p>2 Teas for $5.99 each month. and you can carry them over to the next month.</p>
@@ -74,7 +74,7 @@ function Tree(){
                 </div>
             </div>
             </div>
-            <img src="/hero2.svg" alt="" className="heroimg"/>
+            <img src="hero2.svg" alt="" className="heroimg"/>
         <div className="backgroundhero"></div>
 
         </div>
@@ -86,12 +86,12 @@ function Tree(){
             <div className="box"></div>
             </div>
             <div className="background"></div>
-            <img src="/secondphone.svg" alt="" className="secondphone"/>
-            <img src="/strawberry.svg" alt="" className="strawberry"/>
-            <img src="/strawberrycoctail.svg" alt="" className="strawberrycoctail"/>
+            <img src="secondphone.svg" alt="" className="secondphone"/>
+            <img src="strawberry.svg" alt="" className="strawberry"/>
+            <img src="strawberrycoctail.svg" alt="" className="strawberrycoctail"/>
         </div>
         <div className="prefooter">
-            <img src="/homelogo.svg" alt="" />
+            <img src="homelogo.svg" alt="" />
             <h1>Enjoy your afternoon <br />tea with a snack</h1>
             <div className="content">
             <div className="row">
@@ -99,14 +99,14 @@ function Tree(){
             <button>Send Link</button>
             </div>
             <div className="img-row">
-            <img src="/appstore.svg" alt="" />
-            <img src="/google.svg" alt="" />
+            <img src="appstore.svg" alt="" />
+            <img src="google.svg" alt="" />
             </div>
             </div>
             
         </div>
         <div className="footer">
-            <img src="/logosvgwhite.svg" alt="" />
+            <img src="logosvgwhite.svg" alt="" />
             <div className="row">
                 <div className="column">
                     <p>Company</p>
@@ -125,7 +125,7 @@ function Tree(){
                     <span>Facebook</span>
                 </div>
             </div>
-            <img src="/leaf-footer1.svg" alt="" className="leaf-footer1"/>
+            <img src="leaf-footer1.svg" alt="" className="leaf-footer1"/>
         </div>
     </div>
 }
